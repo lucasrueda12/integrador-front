@@ -1,0 +1,81 @@
+@import url('nav.css');
+@import url('footer.css');
+
+
+
+.logo {
+    width: 3rem;
+}
+
+.b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, .1), inset 0 0.125em 0.5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+    color: white;
+    font-size: 2.5rem;
+}
+
+.text-footer {
+    color: #839496;
+}
+
+.logo-codo {
+    width: 130px;
+}
+
+
+.btn-green {
+    background-color: #29a744;
+    border-color: #29a744;
+}
+
+.presentation {
+    bottom: 250px;
+    right: 170px;
+}
+
+.oscurecer-img {
+    filter: brightness(50%);
+}
+
+.pos-absol {
+    position: absolute;
+}
+
+.text-present{
+    width: 50%;
+}
+
+.bg-cuadro{
+    background-color: #353a40;
+}
+
+
+.info-octubre{
+    margin-top:10px;
+    background-color: #353a40;
+}
+
+.pad-cero{
+    padding: 0%;
+}
+
+.mar-cero{
+    margin: 0%;
+}
+
+.letra-blanca{
+    color: whitesmoke;
+
+}
+
+.bg-verde{
+    background-color: #96c93e;
+    border: none;
+}
